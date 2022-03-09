@@ -1,9 +1,9 @@
 # Snoop on network activity with Wireshark
 
-* Time: approx. 40 min.
-* Level: beginner who has had a general introduction to packets and network protocols
+* Time: Approx. 40 min.
+* Level: Beginner who has had a general introduction to packets and network protocols. I've found [this book](http://www.worldcat.org/oclc/1272923906) to be the most readable and beginner-friendly.
 * Watch for: Students get overwhelmed quickly by the Wireshark interface. Be sure to position this as an exploratory exercise, one on which they will not be graded, and reassure them that they don't need to memorize this information.
-* Download: [Wireshark](https://www.wireshark.org/#download) (cross-platform)
+* Software download: [Wireshark](https://www.wireshark.org/#download) (cross-platform)
 
 If you could take a snapshot of your household's internet traffic, what would it look like? In this tutorial, we'll look at one way of viewing network activity. You might be surprised to discover how busy your network is, even when you don't think you're doing anything!
 

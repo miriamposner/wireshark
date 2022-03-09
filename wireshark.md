@@ -3,6 +3,7 @@
 * Time: approx. 40 min.
 * Level: beginner who has had a general introduction to packets and network protocols
 * Watch for: Students get overwhelmed quickly by the Wireshark interface. Be sure to position this as an exploratory exercise, one on which they will not be graded, and reassure them that they don't need to memorize this information.
+* Download: [Wireshark](https://www.wireshark.org/#download) (cross-platform)
 
 If you could take a snapshot of your household's internet traffic, what would it look like? In this tutorial, we'll look at one way of viewing network activity. You might be surprised to discover how busy your network is, even when you don't think you're doing anything!
 
@@ -21,7 +22,7 @@ standard file format for viewing network activity. Save the file
 someplace where you\'ll be able to find it easily. You don\'t have to
 open it quite yet.
 
-The picture below is an excerpt from a [newspaper article](https://www.azmirror.com/blog/inspired-by-mike-lindell-republicans-demand-information-from-elections-officials/)about Republican attempts to prove that voter fraud took place over networks. You can see that PCAPs are the standard way network experts analyze network activity.
+The picture below is an excerpt from a [newspaper article](https://www.azmirror.com/blog/inspired-by-mike-lindell-republicans-demand-information-from-elections-officials/) about Republican attempts to prove that voter fraud took place over networks. You can see that PCAPs are the standard way network experts analyze network activity.
 
 ![1.png](media/image1.png)
 

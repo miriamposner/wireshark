@@ -17,7 +17,7 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSfVlLFCFkKvrzzsNYNX8JR7HTra-_zpzb
 ## 1. Download the capture file
 
 Go to
-<https://bruinlearn.ucla.edu/files/7715424/download?download_frd=1> to
+<[https://bruinlearn.ucla.edu/files/7715424/download?download_frd=1](https://bruinlearn.ucla.edu/files/13090888/download?download_frd=1)> to
 download our PCAP file. PCAP stands for "packet capture" and is the
 standard file format for viewing network activity. Save the file
 someplace where you\'ll be able to find it easily. You don\'t have to

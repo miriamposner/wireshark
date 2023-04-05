@@ -129,7 +129,7 @@ If your computer is connected to the internet, it\'s always chattering away, eve
 
 ## 12. Capture your own activity
 
-WARNING: this file will get big FAST, especially since you\'re running Zoom, so start and stop the capture within a few seconds!
+WARNING: this file will get big FAST, so start and stop the capture within a few seconds!
 
 OK, want to see what someone could see if they sniffed packets on your
 network? It\'s easy to capture packets!
@@ -144,6 +144,6 @@ Then VERY QUICKLY click on the stop sign right next door to the shark
 fin. By default Wireshark\'s captures are \"promiscuous,\" meaning they capture not only your own activity but the activity of every device on the same network as you.
 
 **Question 7: What do you see? What could someone tell about you and
-your household from a few seconds of your network activity?**
+the other people on your network from a few seconds of your network activity?**
 
 ![1.png](media/image12.png)

@@ -105,10 +105,9 @@ time.
 **Question 3: Most packets contain either TCP or UDP protocols. Why
 would that be?**
 
-**Question 4: What\'s the Address Resolution Protocol? What\'s it doing there?**
+**Question 4: What\'s the Address Resolution Protocol? What\'s it doing there?** (It's OK to Google!)
 
-![1.png](media/image9.png){width="6.21875in"
-height="5.145833333333333in"}
+![1.png](media/image9.png)
 
 ## 10. Investigate a packet
 
@@ -123,7 +122,7 @@ Google terms.)
 
 If your computer is connected to the internet, it\'s always chattering away, even if you\'re not doing anything.
 
-**Question 6: Can you tell what service I use to sync my files to the cloud?** (Hint: Start from the first line and scroll down slowly. You should be able to figure this out by the time you get to line 300.)
+**Question 6: Can you tell what service I use to sync my files to the cloud?** (Hint: Start from the first line and scroll down slowly, watching the Info column. You should be able to figure this out by the time you get to line 300.)
 
 ![1.png](media/image11.png)
 
@@ -131,7 +130,7 @@ If your computer is connected to the internet, it\'s always chattering away, eve
 
 WARNING: this file will get big FAST, so start and stop the capture within a few seconds!
 
-OK, want to see what someone could see if they sniffed packets on your
+OK, want to see what someone could see if they sniffed packets on our
 network? It\'s easy to capture packets!
 
 Click on the blue sharkfin at the top left of the Wireshark interface.
